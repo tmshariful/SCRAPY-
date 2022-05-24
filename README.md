@@ -13,5 +13,5 @@ Scrapped all available laptop data  from startech and ryanscomputers.com website
 \
 Code path for startech: SCRAPY-/laptop/sample/sample/spiders/product.py\
 Data: SCRAPY-/laptop/sample/startech.csv or startech.json\
-\ 
+\
 The directory for ryans laptop data as follows.
